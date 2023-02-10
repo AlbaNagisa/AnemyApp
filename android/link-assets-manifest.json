@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DESIGNER.otf",
+      "sha1": "b65ec98b600a953726fb022560cf496a7e9b3b9e"
+    },
+    {
+      "path": "assets/fonts/MagicSchoolOne.ttf",
+      "sha1": "ad3d1c7c84b98a667fba2d062a2775d4067ff9b6"
+    },
+    {
+      "path": "assets/fonts/Poppins-Black.ttf",
+      "sha1": "048555c4d0c3a6022b480be4596b1c95d605d32b"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "66815173c5954271fac6b3ef51076f186577ad6f"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.ttf",
+      "sha1": "4bf75c72086a8729ee06ebaaeac40cf54ddd74a5"
+    },
+    {
+      "path": "assets/fonts/Poppins-Thin.ttf",
+      "sha1": "c5c36432a1d00d653bde8a47f4c99171f02362e8"
+    }
+  ]
+}
