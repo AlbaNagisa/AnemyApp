@@ -54,7 +54,7 @@ export default function AnimeDetails({ route, navigation }) {
     if (youtubeObject.clicked) {
       return (
         <Youtube
-          apiKey="AIzaSyDJF2NBd8b3ZH4aUfmyCaNOF0rjJzlN89E"
+          apiKey="<your google api key>"
           videoId={item.trailer.youtube_id}
           play={youtubeObject.isPlaying}
           onReady={() =>
